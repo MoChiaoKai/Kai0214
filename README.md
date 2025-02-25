@@ -5,3 +5,5 @@
 -[Ex0102](EX0102BMI計算.ipynb)
 
 -[Ex0103](EX0103猜拳.ipynb)
+
+-[Ex0104](EX01-04 終極密碼.ipynb)
